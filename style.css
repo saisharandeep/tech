@@ -1,0 +1,49 @@
+body{
+    background: url("./download.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+h1{
+    font-size: 60px;
+    color: white;
+    background: rgba(0, 0, 0, 0.5);
+    width: 600px;
+    text-align: center;
+    margin: auto;
+}
+
+
+.name{
+    display: flex;
+    justify-content: space-around;
+    background: rgba(0, 0, 0, 0.5);
+    width: 1200px;
+    margin: auto;
+    margin-top: 30px;
+
+}
+
+
+h3{
+    color: white;
+    font-size: 40px;
+}
+
+
+.t{
+    display: flex;
+    justify-content: space-evenly;
+    background: rgba(91, 177, 91, 0.7);
+    margin-top: 20px;
+}
+
+
+img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50px 0 50px 0;
+    padding: 10px;
+    border: 2px solid black;
+}
